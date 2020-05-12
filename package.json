@@ -1,0 +1,19 @@
+{
+  "name": "hong-cli",
+  "version": "0.0.1",
+  "description": "server cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SKHon/hong-cli.git"
+  },
+  "author": "skhon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SKHon/hong-cli/issues"
+  },
+  "homepage": "https://github.com/SKHon/hong-cli#readme"
+}
